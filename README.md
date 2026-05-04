@@ -1,5 +1,4 @@
 # Excel
-![Dashboard](Dashboard.png)
 # Excel Data Analysis Project
 
 ## 📖 Project Description
