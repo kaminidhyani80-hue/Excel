@@ -1,12 +1,12 @@
 # Excel
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 # Excel Data Analysis Project
 
 ## 📖 Project Description
 This project focuses on performing data analysis using Excel functions and logical formulas.
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📂 Dataset Information
 The dataset includes student scores and sales-related data.
